@@ -1,5 +1,9 @@
 # EP1 – Comparando Algoritmos de Ordenação – ED FATEC SJC – Python
 
+## Alunos:
+ Valdir Evaristo da Silva Junior
+Aluno: Renato Gallo Borges Junior
+
 ## Instruções para iniciar o projeto
 
 
